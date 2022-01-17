@@ -1,0 +1,55 @@
+deck:
+  - regular cards:
+      - 0:
+          id: 0
+          value: 0
+          copies in deck: 4
+      - 1:
+          id: 1
+          value: 1
+          copies in deck: 4
+      - 2:
+          id: 2
+          value: 2
+          copies in deck: 4
+      - 3:
+          id: 3
+          value: 3
+          copies in deck: 4
+      - 4:
+          id: 4
+          value: 4
+          copies in deck: 4
+      - 5:
+          id: 5
+          value: 5
+          copies in deck: 4
+      - 6:
+          id: 6
+          value: 6
+          copies in deck: 4
+      - 7:
+          id: 7
+          value: 7
+          copies in deck: 4
+      - 8:
+          id: 8
+          value: 8
+          copies in deck: 4
+      - 9:
+          id: 9
+          value: 9
+          copies in deck: 9
+  - power cards:
+      - Peek:
+          id: Peek
+          value: 9
+          copies in deck: 3
+      - Swap:
+          id: Swap
+          value: 9
+          copies in deck: 3
+      - Draw 2:
+          id: Draw 2
+          value: 9
+          copies in deck: 3
